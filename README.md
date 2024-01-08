@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning CS Fundamentals and Software engineering.<br> 👯 I’m looking to collaborate on Java and Python projects.<br>💬 Fields which I find interesting are Distributed systems, Compilers and AI.  <br>⚡ Fun fact Elon Musk fanboy.
+🌱 I’m currently learning CS Fundamentals and Software engineering.<br> 👯 I’m looking to collaborate on Java and Python projects.<br>💬 Fields which I find interesting are Distributed systems, Compilers and AI.  <br>⚡ Fun fact Linux 🐧 fanboy.
 
 
 ## 🌐 Socials:
