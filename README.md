@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning CS Fundamentals and Software engineering.<br> 👯 I’m looking to collaborate on Java and Python projects.<br>💬 Fields which I find interesting are Distributed systems, Compilers and AI.  <br>⚡ Fun fact Linux 🐧 fanboy. Fruitiger Aero enthusiast.
+🌱 I’m currently learning CS Fundamentals and Software engineering.<br> 🤝 I’m looking to collaborate on Java and Python projects.<br>💬 Fields which I find interesting are Distributed systems and AI.  <br>🐧 Linux fanboy. Fruitiger Aero enthusiast.
 
 
 ## 🌐 Socials:
@@ -16,11 +16,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=mayankch283&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mayankch283&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankch283&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mayankch283&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
